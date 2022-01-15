@@ -3,7 +3,7 @@ export const ProjectData = [
     id: 1,
     title: "Random Project 1",
     about:
-      "This is a random project I am using to illustrate in my video. This is channel overreacted and I hope you are enjoying this video. Make sure you like and comment if you have any doubt.",
+      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut .",
     tags: ["ReactJs", "NodeJs", "Firebase", "Healthcare"],
     demo: "xassdadad",
     github: "dddddddd",
@@ -14,7 +14,7 @@ export const ProjectData = [
     id: 1,
     title: "Random Project 2",
     about:
-      "This is a random project I am using to illustrate in my video. This is channel overreacted and I hope you are enjoying this video. Make sure you like and comment if you have any doubt.",
+      "Aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur. Excepteur sint occaecat cupidatat non proident, sunt in culpa qui officia deserunt mollit anim id est laborum.",
     tags: [
       "ReactJs",
       "NodeJs",
