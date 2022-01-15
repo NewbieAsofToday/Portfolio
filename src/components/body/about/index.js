@@ -15,7 +15,7 @@ const About = () => {
               </div>
             </div>
           </div>
-          I love experimenting with the web.
+          I'm a Front End developer in the Philippines.
         </div>
         <div className='about-photo'>
           <img src={image} className='picture' />
