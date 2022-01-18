@@ -3,6 +3,9 @@
   justify-content: center;
   align-items: center;
 }
+.social-contact a {
+  transition: 0.4s;
+}
 .social-icon-div {
   padding: 6px;
   cursor: pointer;
@@ -15,4 +18,7 @@
   .social-icon {
     height: 32px;
   }
+}
+.logo-hover {
+  transform: scale(1.5);
 }

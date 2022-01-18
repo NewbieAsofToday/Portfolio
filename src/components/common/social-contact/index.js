@@ -7,22 +7,22 @@ import linkedin from "../../../assets/icons/linkedin.png";
 const SocialContact = () => {
   return (
     <div className='social-contact'>
-      <a href='https://facebook.com'>
+      <a href='https://facebook.com' className='logo-hover'>
         <div className='social-icon-div'>
           <img src={facebook} alt='logo' className='social-icon' />
         </div>
       </a>
-      <a href='https://facebook.com'>
+      <a href='https://facebook.com' className='logo-hover'>
         <div className='social-icon-div'>
           <img src={twitter} alt='logo' className='social-icon' />
         </div>
       </a>
-      <a href='https://facebook.com'>
+      <a href='https://facebook.com' className='logo-hover'>
         <div className='social-icon-div'>
           <img src={github} alt='logo' className='social-icon' />
         </div>
       </a>
-      <a href='https://facebook.com'>
+      <a href='https://facebook.com' className='logo-hover'>
         <div className='social-icon-div'>
           <img src={linkedin} alt='logo' className='social-icon' />
         </div>
