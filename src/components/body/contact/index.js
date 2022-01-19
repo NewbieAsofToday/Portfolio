@@ -2,7 +2,7 @@ import React from "react";
 import "./contact.css";
 import Separator from "../../common/seperator/index";
 import SocialContact from "../../common/social-contact/index";
-import download from "../../../assets/resume.docx";
+import download from "../../../assets/resume.pdf";
 const Contact = () => {
   return (
     <div className='contact'>
