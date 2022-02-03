@@ -13,7 +13,7 @@
   margin-right: 24px;
 }
 .project-title {
-  font-size: 20px;
+  font-size: 1.5rem;
   font-weight: 600;
 }
 .project-tags {
@@ -31,6 +31,10 @@
 .project-links a {
   text-decoration: none;
   color: black;
+  transition: 0.4s ease;
+}
+.project-links a:hover {
+  transform: scale(1.2);
 }
 .project-links {
   margin-top: 6px;
@@ -45,7 +49,7 @@
   padding: 4px 8px;
   border-radius: 4px;
   font-size: 16px;
-  margin-right: 6px;
+  margin-right: 1rem;
 }
 .link-button i {
   display: flex;

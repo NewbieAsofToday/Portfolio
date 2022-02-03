@@ -1,14 +1,13 @@
 export const ProjectData = [
   {
     id: 1,
-    title: "Random Project 1",
+    title: "Otaku Info",
     about:
-      "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut .",
-    tags: ["ReactJs", "NodeJs", "Firebase", "Healthcare"],
-    demo: "xassdadad",
-    github: "dddddddd",
-    image:
-      "https://i.pinimg.com/originals/8e/6d/fe/8e6dfec5dd47bedf06ca7f74c77e4b14.png",
+      "This is a project built with ReactJS that uses an API to display data.This project uses react-router-dom as well as react hooks such as useState and useEffects. I also used styled-components for styling to make the code more organized.",
+    tags: ["ReactJs", "styled-components", "react-router"],
+    demo: "https://myanime-info.netlify.app",
+    github: "https://github.com/NewbieAsofToday/anime-app",
+    image: "./images/Otaku-info.png",
   },
   {
     id: 1,

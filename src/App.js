@@ -22,6 +22,7 @@ function App() {
     <div className='App'>
       <Home />
       <a href='#header' className='back-top'>
+        {/* <p>back to top</p> */}
         <i class='fi fi-rr-caret-up grow'></i>
       </a>
     </div>
