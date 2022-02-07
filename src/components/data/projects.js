@@ -1,12 +1,12 @@
 export const ProjectData = [
   {
     id: 1,
-    title: "Otaku Info",
+    title: "Ani Search",
     about:
-      "This is a project built with ReactJS that uses an API to display data.This project uses react-router-dom as well as react hooks such as useState and useEffects. I also used styled-components for styling to make the code more organized.",
-    tags: ["ReactJs", "styled-components", "react-router"],
-    demo: "https://myanime-info.netlify.app",
-    github: "https://github.com/NewbieAsofToday/anime-app",
+      "This is a project built with ReactJS that uses an API to display data.This project uses react hooks such as useState and useEffects. I also used styled-components for styling.",
+    tags: ["ReactJs", "styled-components"],
+    demo: "https://anime-app-v2.netlify.app/",
+    github: "https://github.com/NewbieAsofToday/anime-app-search",
     image: "./images/Otaku-info.png",
   },
   {
